@@ -1,8 +1,6 @@
 <!-- 
 HTML Event registration Site.
-CSC 235
-Dylan Theis theisd@csp.edu
-11/11/2023
+
 Revisions: 11/18/23 Dylan Theis added my tables with sample data
 11/25/23 Dylan Theis added form to collect user input
 12/1/23 Dylan Theis added security measures(stored procedure)
