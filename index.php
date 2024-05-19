@@ -1,11 +1,6 @@
 <!-- 
 HTML Event registration Site.
 
-Revisions: 11/18/23 Dylan Theis added my tables with sample data
-11/25/23 Dylan Theis added form to collect user input
-12/1/23 Dylan Theis added security measures(stored procedure)
-12/2/23 Dylan Theis added import and interactivty with database
-12/9/23 Dylan Theis added a link to the JSON data
 -->
 
 <!DOCTYPE html>
@@ -21,10 +16,10 @@ Revisions: 11/18/23 Dylan Theis added my tables with sample data
 <?php
     
     // database connection details
-    $servername = "sql201.byethost33.com";
-    $username = "b33_35408430";
-    $password = "Reaching12!";
-    $dbname = "b33_35408430_funRun";
+    $servername = ;
+    $username = ;
+    $password = ;
+    $dbname = ;
 
     // Create connection
     $conn = new mysqli($servername, $username, $password, $dbname);
